@@ -16,6 +16,8 @@ GoDaddy charges for SSL (HTMLS).  They offer [four packages](https://www.godaddy
 |1 site| Multiple sites |Subdomains|Managed SSL|
 |--|--|--|--|
 |$80/year|$200/year|$370/year|$150/year|
+
+
 this document will show you how to do it for free.   This needs to be done every 2 months (60 days).  6 times a year thats **$13**  Every two months!
 
 ![SSL-GoDaddy ScreenShot](/SSL-GoDaddy_screenShot.png)
