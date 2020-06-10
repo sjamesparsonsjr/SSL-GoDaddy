@@ -51,8 +51,5 @@ this document will show you how to do it for free.   This needs to be done every
 
 * **[S James Parsons Jr](https://www.linkedin.com/in/sjamesparsonsjr/)** 
 
-## License
-
-
 
 > Written with [StackEdit](https://stackedit.io/).
